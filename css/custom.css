@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+
+.hero-unit{background:url(../images/bg2.jpg); background-repeat:no-repeat; background-position:center;}
+.carousel{background:url(../images/bg.jpg); background-repeat:no-repeat; background-position:center;}
+body{background:url(../images/bg2.jpg); }
+.custom-unit{background:url(../images/bg2.jpg); }
+.navbar > .navbar-inner{}
